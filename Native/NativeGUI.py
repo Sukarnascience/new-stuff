@@ -65,7 +65,4 @@ BON.place(x=200,y=210+26)
 BOFF.place(x=230,y=210+26)
 status2.place(x=270,y=220+26)
 
-myName=tk.Label(screen,text="Made By Sukarna Jana")
-myName.place(x=500,y=280)
-
 screen.mainloop()
